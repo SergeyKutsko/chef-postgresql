@@ -1,4 +1,4 @@
-name             "postgresql"
+name             "postgresql-9.4"
 maintainer       "Phil Cohen"
 maintainer_email "github@phlippers.net"
 license          "MIT"
